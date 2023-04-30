@@ -1,0 +1,168 @@
+.header{
+  height: 68px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: fixed;
+  top:0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.left-section{
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  line-height: 36px;
+}
+
+.middle-section{
+  flex: 1;
+  margin-left: 115px;
+  align-items: center;
+  display: flex;
+  line-height: 36px;
+  
+}
+
+.interior-button{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  font-family: oswald-medium,oswald,sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  color: rgb(156, 122, 14);
+  background-color: transparent;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.ontraining-button{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  font-family: oswald-medium,oswald,sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  color: rgb(156, 122, 14);
+  background-color: transparent;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.media-button{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  font-family: oswald-medium,oswald,sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  color: rgb(156, 122, 14);
+  background-color: transparent;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.videos-button{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  font-family: oswald-medium,oswald,sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  color: rgb(156, 122, 14);
+  background-color: transparent;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.our-team-button{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  font-family: oswald-medium,oswald,sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  color: rgb(156, 122, 14);
+  background-color: transparent;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.contact-us-button{
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 36px;
+  font-family: oswald-medium,oswald,sans-serif;
+  font-size: 18px;
+  font-weight: 550;
+  color: rgb(156, 122, 14);
+  background-color: transparent;
+  border: none;
+  display: inline-block;
+  white-space: nowrap;
+  align-items: center;
+  cursor: pointer;
+
+}
+
+.right-section{
+  display: flex;
+  align-items: center;
+  margin-right: 20px; 
+  line-height: 36px;
+  justify-content: space-between;
+  width: 450px;
+}
+
+.contacts-container{
+  display: flex;
+  justify-content: space-between;
+  width: 125px;
+}
+
+.free-trial-button{
+  background-color: rgb(156, 122, 14);
+  color: white;
+  height: 68px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: none;
+  font-family: oswald-medium,oswald,sans-serif;
+  border-radius: 2px;
+  white-space: nowrap;
+  font-size: 18px;
+  cursor: pointer;
+
+}
+
+.whatsapp-icon,
+.facebook-icon,
+.youtube-icon,
+.instagram-icon{
+  height: 20px;
+  cursor: pointer;
+}
